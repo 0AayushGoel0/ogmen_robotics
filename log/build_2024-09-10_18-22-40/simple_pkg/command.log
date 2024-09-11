@@ -1,0 +1,4 @@
+Invoking command in '/home/aayush/build/simple_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/aayush/build/simple_pkg -- -j16 -l16
+Invoked command in '/home/aayush/build/simple_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/aayush/build/simple_pkg -- -j16 -l16
+Invoking command in '/home/aayush/build/simple_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/aayush/build/simple_pkg
+Invoked command in '/home/aayush/build/simple_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/aayush/build/simple_pkg

@@ -1,0 +1,6 @@
+Invoking command in '/home/aayush/build/arduinobot_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/aayush/arduinobot_ws/src/arduinobot_cpp -DCMAKE_INSTALL_PREFIX=/home/aayush/install/arduinobot_cpp
+Invoked command in '/home/aayush/build/arduinobot_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/aayush/arduinobot_ws/src/arduinobot_cpp -DCMAKE_INSTALL_PREFIX=/home/aayush/install/arduinobot_cpp
+Invoking command in '/home/aayush/build/arduinobot_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/aayush/build/arduinobot_cpp -- -j16 -l16
+Invoked command in '/home/aayush/build/arduinobot_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/aayush/build/arduinobot_cpp -- -j16 -l16
+Invoking command in '/home/aayush/build/arduinobot_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/aayush/build/arduinobot_cpp
+Invoked command in '/home/aayush/build/arduinobot_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/aayush/build/arduinobot_cpp
